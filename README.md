@@ -8,7 +8,7 @@
 
 - After long hours of training and tuning, I can only manage to achieve maximum 50% accuracy on my validation set, which is not a good result. I also tried with other popular networks as MobileNets, VGG16, ResNet50, Xcepticon but the accuracy were much worse than EfficientNet.
 
-- My dataset can be downloaded from [here](https://drive.google.com/file/d/1q5LROuIN596pdMY3lMRULnM6PENPurou/view?usp=sharing).
+
 
 <p align="center">
   <img src="./age_predict_result.jpg" width=720>
